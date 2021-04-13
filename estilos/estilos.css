@@ -45,9 +45,7 @@ body{
     width: 561px;
 }
 
-.noticiasG1 a{
-    color: #cd150b;
-}
+
 
 .noticiasGe{
     width: 235px;
@@ -115,10 +113,6 @@ body{
 }
 
 
-.noticiasGe a{
-    color: #06aa48;
-}
-
 .noticiasGe img,.noticiasGshow img{
     border-radius: 4px;
     width: 235px;
@@ -131,9 +125,7 @@ body{
     margin-bottom: 40px;
 }
 
-.noticiasGshow a{
-    color: #ff7f00;
-}
+
 
 a:hover{
     filter:brightness(1.2);
