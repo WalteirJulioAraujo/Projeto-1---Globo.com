@@ -1,0 +1,61 @@
+body{
+    background-color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.topoPagina{
+    height: 103px;
+}
+
+.menu{
+    width: 1145px;
+    height: 103px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.barraSeparadoraTopo{
+    height: 1px;
+    background-color: #e6e6e6;
+}
+
+.conteudoPagina{
+    width: 1145px;
+    height: 400px;
+    margin: 40px auto 0 auto;
+    background-color: blue ;
+}
+
+.menu .logo{
+    width: 96px;
+}
+
+.menu a{
+    font-size: 19px;
+    font-weight: bold;
+    letter-spacing: -0.8px;
+    margin-left: 25px;
+}
+
+a:hover{
+    filter:brightness(1.2);
+}
+
+
+.vermelho{
+    color: #a80001;
+}
+.verde{
+    color: #06aa48;
+}
+.laranja{
+    color: #ff7f00;
+}
+.cinza{
+    color: #666;
+}
+.azul{
+    color: #0769de;
+}
